@@ -26,7 +26,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/guilhermedom">
-    ![Linkedin: Guilherme Silva](https://img.shields.io/badge/-guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Guilherme Silva](https://img.shields.io/badge/-Guilherme%20Silva-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/guilhermedom">
     ![GitHub: guilhermedom](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -34,23 +34,60 @@
 <a href="https://www.hackerrank.com/guilhermedfs">
     ![HackerRank: guilhermedfs](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 </a>
+<a href="https://www.hackerrank.com/guilhermedfs">
+    ![Discord: gui#0435](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+</a>
 
 &emsp;
 
 ## 🛠️ My Skills
--------------------
 
+### Development Languages:
+&emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/java-000?&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-000?&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/c++-000?&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-000?&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![LaTeX](https://img.shields.io/badge/latex-000?&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-000?&logo=markdown&logoColor=white)
+
+### Frameworks & Libraries:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/vuejs-000?&logo=vuedotjs&logoColor=%234FC08D)
+
+### Databases:
+&emsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+### Cloud & DevOps:
+&emsp;
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+
+### Tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Trello](https://img.shields.io/badge/Trello-000?&logo=Trello&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ## 📈 My GitHub Stats and Activity
 
-### 💻 Profile Stats
-
-<img alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=guilhermedom&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedom&hide=jupyter%20notebook&langs_count=10&exclude_repo=prim-kruskal-clustering,game-token,offloading-fibonacci,flappy-bird-clone,grafos-dijkstra,videopoker,mips-cpu-simulator,bozo-dice-game,simple-chain-code" height="192px"/>
-
 ![Guilherme's GitHub trophies](https://github-profile-trophy.vercel.app/?username=guilhermedom&title=MultiLanguage,Commits,Repositories)
-
-
-### 🔥 Streak Stats
-
 ![Guilherme's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=guilhermedom&theme=tokyonight)
-
+<img alt="Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedom&hide=jupyter%20notebook&langs_count=10&exclude_repo=prim-kruskal-clustering,game-token,offloading-fibonacci,flappy-bird-clone,grafos-dijkstra,videopoker,mips-cpu-simulator,bozo-dice-game,simple-chain-code"/>
