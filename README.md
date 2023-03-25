@@ -86,8 +86,14 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
-## 📈 My GitHub Stats and Activity
+## 📈 GitHub Stats and Activity
 
-![Guilherme's GitHub trophies](https://github-profile-trophy.vercel.app/?username=guilhermedom&title=MultiLanguage,Commits,Repositories)
-![Guilherme's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=guilhermedom&theme=tokyonight)
-<img alt="Guilherme's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedom&hide=jupyter%20notebook&langs_count=10&exclude_repo=prim-kruskal-clustering,game-token,offloading-fibonacci,flappy-bird-clone,grafos-dijkstra,videopoker,mips-cpu-simulator,bozo-dice-game,simple-chain-code"/>
+<div id="github-stats" align="center">
+  <img alt="Guilherme's Trophies" src="https://github-profile-trophy.vercel.app/?username=guilhermedom&title=MultiLanguage,Commits,Repositories&column=3&theme=gruvbox&no-frame=true" height="140px"/><img alt="Guilherme's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermedom&theme=gruvbox&hide_border=true" height="140px"/>
+</div>
+
+<div id="top-languages" align="center">
+  <img alt="Guilherme's top languages" style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedom&hide=jupyter%20notebook&langs_count=10&exclude_repo=prim-kruskal-clustering,game-token,offloading-fibonacci,flappy-bird-clone,grafos-dijkstra,videopoker,mips-cpu-simulator,bozo-dice-game,simple-chain-code&theme=gruvbox&hide_border=true" height="320px"/>
+</div>
+
+
