@@ -13,10 +13,10 @@
 &emsp;
 
 - 🔭 Working on a Multilayer Perceptron/RBF project with adaptible and invidual kernels per neuron;
-- ⚗️ Researching on anomaly detection and anomaly type annotation with algorithms integrating multiple methods for anomaly detection;
-- 💻 Taking multiple courses to further develop my machine learning and data science skills, including: Design Patterns, Data Engineering with Azure, Mathematical Foundations of Machine Learning, Natural Language Processing in Python and others;
-- 📚 Currently reading "Learning OpenCV: Computer Vision with the OpenCV Library" and "Mining of Massive Datasets";
-- 🌱 Improving my skills on PyTorch for Computer Vision, Multimodal Machine Learning, Deep Language Models and TensorFlow;
+- ⚗️ Researching on anomaly detection and anomaly type annotation integrating multiple methods;
+- 💻 Taking courses to further develop my Machine Learning skills, including: Design Patterns, Data Engineering with Azure, Mathematical Foundations of Machine Learning, NLP in Python and others;
+- 📚 Reading "Learning OpenCV: Computer Vision with the OpenCV Library" and "Mining of Massive Datasets";
+- 🌱 Improving on PyTorch for Computer Vision, Multimodal Machine Learning, Deep Language Models and TensorFlow;
 - 💬 Ask me about Anomaly Detection, Machine Learning, Python Algorithms, Programming Challenges;
 - 📬 Available for contracts, freelancing and consulting. Reach me at **guilhermedfs@gmail.com**
 
