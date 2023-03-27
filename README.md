@@ -5,7 +5,7 @@
 </div>
 
 &emsp;
-<h3 align="left">You've stumbled upon the profile of a data scientist who spends most of his time typing on a keyboard and staring at colorful graphs. When I'm not busy crunching numbers or trying to make sense of messy datasets, you can find me playing around with cool new algorithms and experimenting with cutting-edge tools.</h3>
+<h3 align="left">You've stumbled upon the profile of a data scientist who spends most of his time staring at colorful graphs. When I'm not crunching numbers or trying to make sense of messy datasets, you can find me playing with cool new algorithms and experimenting with cutting-edge tools.</h3>
 &emsp;
 
 -------------------
@@ -16,7 +16,7 @@
 - ⚗️ Researching on anomaly detection and anomaly type annotation integrating multiple methods;
 - 💻 Taking courses to further develop my Machine Learning skills, including: Design Patterns, Data Engineering with Azure, Mathematical Foundations of Machine Learning, NLP in Python and others;
 - 📚 Reading "Learning OpenCV: Computer Vision with the OpenCV Library" and "Mining of Massive Datasets";
-- 🌱 Improving on PyTorch for Computer Vision, Multimodal Machine Learning, Deep Language Models and TensorFlow;
+- 🌱 Improving on TensorFlow for Computer Vision, Multimodal Machine Learning, Deep Language Models;
 - 💬 Ask me about Anomaly Detection, Machine Learning, Python Algorithms, Programming Challenges;
 - 📬 Available for contracts, freelancing and consulting. Reach me at **guilhermedfs@gmail.com**
 
