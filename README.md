@@ -93,7 +93,7 @@
 </div>
 
 <div id="top-languages" align="center">
-  <img alt="Guilherme's top languages" style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedom&hide=jupyter%20notebook&langs_count=10&exclude_repo=prim-kruskal-clustering,game-token,offloading-fibonacci,flappy-bird-clone,grafos-dijkstra,videopoker,mips-cpu-simulator,bozo-dice-game,simple-chain-code&theme=gruvbox&hide_border=true" height="320px"/>
+  <img alt="Guilherme's top languages" style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedom&hide=jupyter%20notebook&langs_count=10&exclude_repo=prim-kruskal-clustering,game-token,offloading-fibonacci,flappy-bird-clone,grafos-dijkstra,videopoker,mips-cpu-simulator,bozo-dice-game,simple-chain-code&theme=gruvbox&hide_border=true" height="360px"/>
 </div>
 
 
