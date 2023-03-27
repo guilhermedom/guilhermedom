@@ -45,21 +45,21 @@
 ### Development Languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/java-000?&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-000?&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-000?&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-000?&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000?&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Shell Script](https://img.shields.io/badge/shell_script-000?&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-000?&logo=gnu-bash&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![LaTeX](https://img.shields.io/badge/latex-000?&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-000?&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-000?&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?&logo=markdown&logoColor=white)
 
 ### Frameworks & Libraries:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue.js](https://img.shields.io/badge/vuejs-000?&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Databases:
 &emsp;
@@ -71,7 +71,7 @@
 ### Cloud & DevOps:
 &emsp;
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Jenkins](https://img.shields.io/badge/jenkins-000?&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
