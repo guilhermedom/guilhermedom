@@ -99,8 +99,6 @@
 ### Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![Trello](https://img.shields.io/badge/Trello-000?&logo=Trello&logoColor=white)
@@ -111,7 +109,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?&logo=rstudio&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&logo=vim&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ## 📈 GitHub Stats and Activity
 
