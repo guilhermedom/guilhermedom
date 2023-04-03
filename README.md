@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
+<h2 align="center">Hi 👋, I'm Guilherme</h2>
 
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJiY2M4MjZlZDhkNWFkMWIxNTI0NTFlODdlOWQyZDM1M2I5NWY1MyZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif"/>
-</div>
-
-&emsp;
-<h3 align="left">You've stumbled upon the profile of a data scientist who spends most of his time staring at colorful graphs. When I'm not crunching numbers or trying to make sense of messy datasets, you can find me playing with cool new algorithms and experimenting with cutting-edge tools.</h3>
-&emsp;
+<table rules=none>
+<tr>
+  <td><p align="left">You've stumbled upon the profile of a data scientist who spends most of</br> his time staring at colorful graphs. When I'm not crunching numbers or</br> trying to make sense of messy datasets, you can find me playing with</br> cool new algorithms and experimenting with cutting-edge tools.</p>
+  <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJiY2M4MjZlZDhkNWFkMWIxNTI0NTFlODdlOWQyZDM1M2I5NWY1MyZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" height="250px"></td>
+</tr>
+</table>
 
 -------------------
 
