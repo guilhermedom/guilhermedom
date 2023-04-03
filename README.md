@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Guilherme</h2>
 
-<table style="border:0px solid white; width:100%;">
+<table width="100%" style="border:0px solid white; width:100%;">
 <tr>
-  <td width="550"><b align="left">You've stumbled upon the profile of a data scientist who spends most of his time staring at colorful graphs. When I'm not crunching numbers or trying to make sense of messy datasets, you can find me playing with cool new algorithms and experimenting with cutting-edge tools.</b>
-  <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJiY2M4MjZlZDhkNWFkMWIxNTI0NTFlODdlOWQyZDM1M2I5NWY1MyZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" height="220px"></td>
+  <td width="500" style="border:0px; width:50%"><b align="left">You've stumbled upon the profile of a data scientist who spends most of his time staring at colorful graphs. When I'm not crunching numbers or trying to make sense of messy datasets, you can find me playing with cool new algorithms and experimenting with cutting-edge tools.</b>
+  <td width="50%" style="border:0px; width:50%"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJiY2M4MjZlZDhkNWFkMWIxNTI0NTFlODdlOWQyZDM1M2I5NWY1MyZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" height="200px"></td>
 </tr>
 </table>
 
