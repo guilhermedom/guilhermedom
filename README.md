@@ -11,11 +11,9 @@
 
 &emsp;
 
-- 🔭 Working on a Multilayer Perceptron/RBF project with adaptible and invidual kernels per neuron;
 - ⚗️ Researching on anomaly detection and anomaly type annotation integrating multiple methods;
 - 🌱 Improving my ML/AI skills with courses on: Multimodal Machine Learning, Deep Language Models, Design Patterns, Data Engineering with Azure, Mathematics for Machine Learning and others;
-- 📚 Reading "Learning OpenCV: Computer Vision with the OpenCV Library" and "Mining of Massive Datasets";
-- 📬 Available for contracts, freelancing and consulting. Reach me at **guilhermedfs@gmail.com**
+- 📚 Reading "Mining of Massive Datasets".
 
 &emsp;
 
